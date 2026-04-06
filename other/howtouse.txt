@@ -1,0 +1,1 @@
+copy all the files one by one into a single file
